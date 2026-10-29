@@ -57,7 +57,7 @@ A chave é lida com `userdata.get('OLLAMA_API_KEY')` e **nunca fica escrita no c
 
 ```
 ├── README.md
-└── chatbot_consorcio.ipynb   # notebook com a explicação, o código e os diálogos
+└── ChatBotConsorcio.ipynb   # notebook com a explicação, o código e os diálogos
 ```
 
 ## ⚠️ Aviso
