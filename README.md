@@ -66,9 +66,9 @@ Este é um projeto **educacional**. As respostas do chatbot não substituem a or
 
 ## 👥 Equipe
 
-`Gabriel de Paula Santa Izabel \n
-Victor Hugo Astorino Barra Mansa \n
-João pedro de Francisco Godoy \n
-Lucas Jorge Ferreira`
+ - Gabriel de Paula Santa Izabel 
+ - Victor Hugo Astorino Barra Mansa 
+ - João pedro de Francisco Godoy 
+ - Lucas Jorge Ferreira
 
 Disciplina: Prompt Engineering and Artificial Intelligence · FIAP · CC 2026
