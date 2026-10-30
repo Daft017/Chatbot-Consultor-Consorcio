@@ -4,6 +4,8 @@
 Chatbot em Python, feito para rodar no Google Colab, que atua como **consultor financeiro e advogado especialista em consórcio imobiliário e documentação de imóvel**. Projeto do **CKP03** da disciplina *Prompt Engineering and Artificial Intelligence* (FIAP, 1º semestre de 2026).
 
 ---
+Link do Colab: https://colab.research.google.com/drive/15miizuC5gNGBNLlP3T74vUjE7HJi-e6U?usp=sharing
+---
 
 ## 🎯 O que o chatbot faz
 
